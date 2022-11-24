@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/11/24 16:05:31。
+     1>项目“D:\学习\c语言\明解c语言中级篇\明解c语言中级篇\明解c语言中级篇.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (明解c语言中级篇.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\学习\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 7.c 8.c
+         8.c
+     1>d:\学习\c语言\明解c语言中级篇\明解c语言中级篇\8.c(17): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+         7.c
+         正在生成代码...
+       Link:
+         D:\学习\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\c语言\明解c语言中级篇\Debug\明解c语言中级篇(1).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\学习\c语言\明解c语言中级篇\Debug\明解c语言中级篇(1).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\c语言\明解c语言中级篇\Debug\明解c语言中级篇(1).lib" /MACHINE:X86 Debug\1.obj
+         Debug\2.obj
+         Debug\3.obj
+         Debug\4.obj
+         Debug\5.obj
+         Debug\6.obj
+         Debug\7.obj
+         Debug\8.obj
+         明解c语言中级篇.vcxproj -> D:\学习\c语言\明解c语言中级篇\Debug\明解c语言中级篇(1).exe
+     1>已完成生成项目“D:\学习\c语言\明解c语言中级篇\明解c语言中级篇\明解c语言中级篇.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.77
